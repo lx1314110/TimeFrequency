@@ -1,0 +1,19 @@
+ÈÕÆÚ£º9-21
+ÐÞ¸Äµã£ºÐÞ¸ÄÉè±¸ÐÅÏ¢²éÑ¯£¨RTRV-EQPT£©,µçÔ´ÅÌºÍ·çÉÈÅÌ²»Îª'O'Ìí¼Ó,,,,£¨°æ±¾ºÅÐÅÏ¢£©¡£
+
+
+2018-07-26
+1¡¢ÆÁ±ÎC03¡¢C31¡¢C51¡¢C52¡¢C53¡¢CC7¡¢CC5ÊÂ¼þÉÏ±¨µ½Íø¹Ü¡£
+2¡¢À©Õ¹¿òµÄÉÏ±¨ÊÂ¼þÖÐµÄÔ´²ÛÎ»ºÅ(DRV)ÐÞ¸ÄÎªÊµ¼ÊµÄÀ©Õ¹¿ò²ÛÎ»ºÅ¡£
+3¡¢MGE¸æ¾¯ÁÐ±íÔö¼Ó10MÐÅºÅ¶ªÊ§¸æ¾¯¡£
+4¡¢ÐÞ¸ÄÎÀÐÇÈòÃëÖµ±ä»¯ÉÏ±¨ÊÂ¼þºÅCC9,²¢Ôö¼Ó¶ÔÓ¦µÄ´¦Àíº¯Êý¡
+
+ÈÕÆÚ: 11-23
+1¡¢ÐÞ¸ÄMCPÖÐµÄget_out_levº¯Êý(¸ù¾ÝÖÓÅÌ×´Ì¬ÏÂ·¢SSM×Ö½Ú)£¬Ôö¼Ó³õÊ¼Î´ÊÕµ½ÖÓÅÌ×´Ì¬ºÍ¸ú×ÙÔ´²»ÏÂ·¢SSMºÍ²Î¿¼Ô´FÇé¿öÏÂÒ²²»ÏÂ·¢SSM
+
+ÈÕÆÚ: 2019-02-13
+1¡¢save_sy_verÔö¼ÓÇå³ýsy_ver´æ´¢Êý×é¡£ 
+
+ÈÕÆÚ: 2019-02-18
+1¡¢Mcp_set.c ÖÐÔö¼ÓGBTPIIIµ¥ÅÌ SET-GN-MODE¡¢SET-GN-EN¡¢SET-GN-DLY¡¢SET-PPS-DLYÉèÖÃº¯Êý¡£
+2¡¢Mcp_save.cÖÐÔö¼ÓGBTPIIIµ¥ÅÌÉÏ±¨R-GBTP-DLY(Ê±ÑÓ²¹³¥),R-PPS-DELAY¡¢CF5,CF6ÊÂ¼þº¯Êý¡£

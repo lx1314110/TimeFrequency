@@ -1,0 +1,2 @@
+---- R-CONFIG Matches (1 in 1 files) ----
+Mcp_save.c:	{"R-CONFIG", 8, "0", send_init_config}   /*20150909 init pan*/
